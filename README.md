@@ -5,7 +5,8 @@ This service is provided as a django web application.
 
 # How to run code base in production
 Currently when every time someone commits to the master branch the application gets redeployed:
-You can find the web app at: https://exeterorientation.azurewebsites.net/
+You can find the web app at(student): https://exeterorientation.azurewebsites.net/
+and (Game master) https://exeterorientation.azurewebsites.net/login_view
 
 
 #### Native Application Development
